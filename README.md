@@ -1,4 +1,4 @@
-# Repositório de um Desafio de projetos
+# Repositório de um Desafio de Projetos
 Primeiro desafio, utilizando a plataforma de ensino DIO sobre GIT/GITHUB
 
 ## Links Úteis
